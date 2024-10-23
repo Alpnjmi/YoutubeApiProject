@@ -1,0 +1,23 @@
+﻿@model IndexViewModel
+
+<div class="text-center">
+    <h1 class="display-4">@Model.WelcomeMessage</h1>
+    <p>Learn about <a href="@Model.LearnLink" target="_blank">@Model.LearnLinkText</a>.</p>
+
+    <!-- Embed YouTube Videos -->
+    <div>
+        @if (Model.YouTubeLinks != null && Model.YouTubeLinks.Any())
+        {
+            foreach (var link in Model.YouTubeLinks)
+            {
+                <div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 40px;">
+                    <iframe width="560" height="315" class="embed-responsive-item" src="@link" allowfullscreen></iframe>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No videos available.</p>
+        }
+    </div>
+</div>

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPTM\\SEM 6\\YouTubeApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC6EE53-E7B0-4074-B125-7AB821466ED5}|YouTubeApiProject\\YouTubeApiProject.csproj|d:\\uptm\\sem 6\\youtubeapiproject\\youtubeapiproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDC6EE53-E7B0-4074-B125-7AB821466ED5}|YouTubeApiProject\\YouTubeApiProject.csproj|solutionrelative:youtubeapiproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC6EE53-E7B0-4074-B125-7AB821466ED5}|YouTubeApiProject\\YouTubeApiProject.csproj|d:\\uptm\\sem 6\\youtubeapiproject\\youtubeapiproject\\views\\youtube\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDC6EE53-E7B0-4074-B125-7AB821466ED5}|YouTubeApiProject\\YouTubeApiProject.csproj|solutionrelative:youtubeapiproject\\views\\youtube\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UPTM\\SEM 6\\YouTubeApiProject\\YouTubeApiProject\\Views\\Youtube\\Index.cshtml",
+              "RelativeDocumentMoniker": "YouTubeApiProject\\Views\\Youtube\\Index.cshtml",
+              "ToolTip": "D:\\UPTM\\SEM 6\\YouTubeApiProject\\YouTubeApiProject\\Views\\Youtube\\Index.cshtml",
+              "RelativeToolTip": "YouTubeApiProject\\Views\\Youtube\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:44:53.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UPTM\\SEM 6\\YouTubeApiProject\\YouTubeApiProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "YouTubeApiProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\UPTM\\SEM 6\\YouTubeApiProject\\YouTubeApiProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "YouTubeApiProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:43:44.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
